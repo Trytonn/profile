@@ -47,6 +47,6 @@
     </ul>
     <p><span class="emoji">✨</span> <strong>Curiosidades:</strong></p>
     <ul>
-        <li>Em meu tempo livre, gosto de <strong>mexer com projetos de eletronica e carros antigos.</strong>.</li>
+        <li>Em meu tempo livre, gosto de <strong>mexer com projetos de eletrônica e carros antigos.</strong>.</li>
     </ul>
 </div>
