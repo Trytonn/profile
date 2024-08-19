@@ -1,9 +1,9 @@
 <div>
     <a href="https://github.com/phsf-dev">
         <img loading="lazy" height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsf-dev&layout=compact&langs_count=7&theme=dracula" />
         <img loading="lazy" height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=phsf-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 <div class="section">
     <h1><span class="emoji">👋</span> Olá! Bem-vindo ao meu GitHub</h1>
