@@ -5,48 +5,6 @@
         <img loading="lazy" height="180em"
             src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-        background-color: #f5f5f5;
-        color: #333;
-    }
-
-    h1,
-    h2 {
-        color: #2c3e50;
-    }
-
-    ul {
-        list-style-type: disc;
-        margin-left: 20px;
-    }
-
-    a {
-        color: #3498db;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    .emoji {
-        font-size: 1.2em;
-        margin-right: 5px;
-    }
-
-    .section {
-        background-color: #ffffff;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-radius: 5px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-</style>
 <div class="section">
     <h1><span class="emoji">👋</span> Olá! Bem-vindo ao meu GitHub</h1>
 </div>
