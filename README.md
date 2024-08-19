@@ -15,12 +15,10 @@
     <p>Sou um desenvolvedor apaixonado por tecnologia, com experiência em <strong> JavaScript, TypeScript, Angular e
             Node.js</strong>. Gosto de resolver problemas complexos e sempre estou em
         busca de novos desafios que possam expandir meus conhecimentos.</p>
-
     <p><span class="emoji">💻</span> <strong>O Que Eu Faço:</strong></p>
     <p>Atualmente, estou focado em <strong>desenvolvimento web</strong>. Tenho trabalhado em projetos que envolvem
         <strong>TypeScript, Angular e Node.js, Express e MariaDB</strong>, e estou sempre explorando novas tecnologias.
     </p>
-
     <p><span class="emoji">🚀</span> <strong>Projetos Recentes:</strong></p>
     <ul>
         <li><a href="https://taltrh.com/principal">Talt RH</a>: Sistema de postagem de vagas de emprego e triagem de
@@ -47,7 +45,6 @@
         <li><a href="https://www.instagram.com/phsf.png/">Instagram</a></li>
         <li><a href="mailto:phsf1404@gmail.com">Email</a></li>
     </ul>
-
     <p><span class="emoji">✨</span> <strong>Curiosidades:</strong></p>
     <ul>
         <li>Em meu tempo livre, gosto de <strong>mexer com projetos de eletronica e carros antigos.</strong>.</li>
