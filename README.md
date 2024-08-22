@@ -22,7 +22,7 @@
     <p><span class="emoji">🚀</span> <strong>Projetos Recentes:</strong></p>
     <ul>
         <li><a href="https://taltrh.com/principal">Talt RH</a>: Sistema de postagem de vagas de emprego e triagem de
-            candidatos para as vagas.</li>
+            candidatos para as vagas. Atualmente desenvolvendo o sistema de processo seletivo envolvendo prova online</li>
         <li>Alguns outros projetos ainda não divulgados</li>
     </ul>
 </div>
