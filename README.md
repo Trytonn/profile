@@ -21,9 +21,11 @@
     </p>
     <p><span class="emoji">🚀</span> <strong>Projetos Recentes:</strong></p>
     <ul>
-        <li><a href="https://taltrh.com/principal">Talt RH</a>: Sistema de postagem de vagas de emprego e triagem de
+        <li><a target="_blank" href="https://taltrh.com/principal">Talt RH</a>: Sistema de postagem de vagas de emprego e triagem de
             candidatos para as vagas. Atualmente desenvolvendo o sistema de processo seletivo envolvendo prova online</li>
-        <li>Alguns outros projetos ainda não divulgados</li>
+        <li><a target="_blank" href="https://www.instagram.com/geroengenharia/">Gero Obras</a>: O Gero Obras é um assistente virtual de engenharia, capaz de automatizar o encadeamento de tarefas de um projeto, conferindo maior dinamismo e confiabilidade no processo de acompanhamento e controle.</li>
+        <li><a target="_blank" href="https://www.instagram.com/visitpara/">Visit Pará</a>: Site promocional da Sec. de Estado de Turismo do Pará.</li>
+        <li>Wordpress: Desenvolvimento de sites em wordpress, fazendo customização e criação de plugins em php.</li>
     </ul>
 </div>
 
