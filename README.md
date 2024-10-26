@@ -50,5 +50,6 @@
     <p><span class="emoji">✨</span> <strong>Curiosidades:</strong></p>
     <ul>
         <li>Em meu tempo livre, gosto de <strong>mexer com projetos de eletrônica e carros antigos.</strong>.</li>
+        <li>Gosto de mexer com projetos de automação residencial e integração de sistemas</li>
     </ul>
 </div>
